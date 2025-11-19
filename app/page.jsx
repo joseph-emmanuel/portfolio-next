@@ -34,7 +34,11 @@ const Home = () => {
                 size="lg"
                 className="uppercase flex items-center gap-2"
               >
-                <Link href="/assets/resume/Joseph-emmanuel-Resume.pdf">
+                <Link
+                  href="https://drive.google.com/file/d/1KIJBoqXWv3mw9qhCRsd8Qh-5M89bzgTl/view?usp=drive_link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <span>Download CV</span>
                 </Link>
                 <FiDownload className="text-xl" />
