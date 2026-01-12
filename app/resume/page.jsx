@@ -57,10 +57,15 @@ const experience = {
   description:
     "Snapshot of the companies and roles where I’ve been building full-stack web applications, content systems, and internal tools.",
   items: [
+      {
+      company: "University of Guelph-Humber",
+      position: "Senior Full Stack Developer",
+      duration: "2026 - Present",
+    },
     {
       company: "Great Builder Solutions",
       position: "Full Stack Developer",
-      duration: "2021 - Present",
+      duration: "2021 - 2025",
     },
     {
       company: "Dulcedo Management",
